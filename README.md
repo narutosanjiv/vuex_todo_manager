@@ -1,4 +1,5 @@
 # vuex_todo_manager
+MiniProject for youtube [tutorial](https://www.youtube.com/watch?v=5lVQgZzLMHc)
 
 ## Project setup
 ```
